@@ -18,6 +18,7 @@
 .about-doc-container > ul > li{
     align-items: center;
     color: #8D96A3;
+    padding-bottom: 7px;
 }
 
 .about-doc-container > ul > li:before{

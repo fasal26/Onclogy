@@ -41,6 +41,10 @@
     padding-bottom: 15px;
 }
 
+.nav-item2 > button{
+    display: block;
+}
+
 .nav-btn{
     padding-top: 25px;
 }
